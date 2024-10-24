@@ -60,3 +60,10 @@ if __name__=="__main__":
     print(solution.levelOrder(root))
     print(solution.levelOrder_iterative(root))
 
+#Solved - 
+#https://leetcode.com/problem-list/breadth-first-search/#:~:text=100.%20Same%20Tree,Easy
+#https://leetcode.com/problem-list/breadth-first-search/#:~:text=101.%20Symmetric%20Tree,Easy
+#https://leetcode.com/problem-list/breadth-first-search/#:~:text=102.%20Binary%20Tree,Med.
+#https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=problem-list-v2&envId=breadth-first-search
+#https://leetcode.com/problem-list/breadth-first-search/#:~:text=112.%20Path%20Sum,Easy
+#https://leetcode.com/problem-list/breadth-first-search/#:~:text=111.%20Minimum%20Depth,Easy
