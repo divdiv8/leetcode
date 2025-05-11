@@ -1,5 +1,8 @@
 mental model for solving problems
-def searchRange(self, nums: List[int], target: int) -> List[int]:
+
+
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        
         # checklist:
             # starting and ending positions of target
             # target may not exist in the array; return [-1, -1] in that case
